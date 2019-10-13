@@ -88,7 +88,7 @@ exclude:
 
 # -----------
 # CloudCannon
-exclude: [vendor]
+#exclude: [vendor]
 social_icons:
   - Facebook
   - Google Plus

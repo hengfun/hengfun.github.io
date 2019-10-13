@@ -1,0 +1,16 @@
+current directory: /home/heng/hengfun.github.io/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+/usr/bin/ruby2.5 -r ./siteconf20191012-31944-1udh5l8.rb extconf.rb
+creating Makefile
+
+current directory: /home/heng/hengfun.github.io/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/heng/hengfun.github.io/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/heng/hengfun.github.io/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20191012-31944-11k4vp5
